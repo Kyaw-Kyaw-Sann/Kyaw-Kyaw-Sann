@@ -1,34 +1,79 @@
 
 # Hi, I'm Kyaw Kyaw Hsan 👋
 
-**Junior Full-Stack Developer** · Next.js · Spring Boot · React Native
+**Junior Full-Stack Developer · Next.js · Spring Boot · PostgreSQL**
 
-I build web and mobile applications, from intuitive user interfaces to secure REST APIs and scalable backend systems.
+I build modern web and mobile applications with a focus on clean architecture, user experience, and maintainable code.
 
-Currently a final-year Computer University student, exploring opportunities in software development.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [QuickSeat](https://github.com/Kyaw-Kyaw-Sann/quickseat) | Cinema booking platform with seat reservations and QR-based tickets. | Next.js, Spring Boot, PostgreSQL |
-| [Notiva](https://github.com/Kyaw-Kyaw-Sann/notiva-api) | AI-powered knowledge management with RAG and semantic search. | Next.js, Spring Boot, pgvector |
-| [Readora](https://github.com/Kyaw-Kyaw-Sann?tab=repositories&q=readora) | Personalized digital library with PDF reading and audiobooks. | React Native, Next.js, Spring Boot |
-
-### 🛠️ Technologies
-
-**Languages:** Java · TypeScript · JavaScript
-
-**Frontend & Mobile:** Next.js · React · React Native · Tailwind CSS
-
-**Backend & Database:** Spring Boot · PostgreSQL · MongoDB
-
-**Tools:** Git · GitHub · Docker
+![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-DCFCE7?style=flat&labelColor=DCFCE7&color=DCFCE7)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-DBEAFE?style=flat&labelColor=DBEAFE&color=DBEAFE)
 
 ---
 
-### 🔗 Connect
+## 👨‍💻 About Me
 
-[LinkedIn](https://www.linkedin.com/in/kyaw-kyawhsan) · [GitHub](https://github.com/Kyaw-Kyaw-Sann)
+I'm a final-year Computer University student passionate about building end-to-end applications, from responsive frontend interfaces to secure REST APIs and relational databases.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟️ QuickSeat — Cinema Booking Platform
+
+> A full-stack cinema booking application featuring concurrency-safe seat reservations, JWT authentication, QR tickets, and role-based management.
+>
+> `Next.js` · `Spring Boot` · `PostgreSQL`
+>
+> [Backend Repository](https://github.com/Kyaw-Kyaw-Sann/quickseat) · [Frontend Repository](https://github.com/Kyaw-Kyaw-Sann/quickseat-frontend)
+
+### 📝 Notiva — AI-Powered Knowledge Management
+
+> A note management application featuring AI-assisted conversations, semantic search with RAG, and version-history recovery.
+>
+> `Next.js` · `Spring Boot` · `PostgreSQL` · `pgvector`
+>
+> [Backend Repository](https://github.com/Kyaw-Kyaw-Sann/notiva-api) · [Frontend Repository](https://github.com/Kyaw-Kyaw-Sann/notiva-web)
+
+### 📚 Readora — Personalized Digital Library
+
+> A digital library featuring personalized book recommendations, PDF reading, audiobook playback, and reading progress tracking.
+>
+> `React Native` · `Next.js` · `Spring Boot`
+>
+> [Explore Readora](https://github.com/Kyaw-Kyaw-Sann?tab=repositories&q=readora)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-kyaw-hsan-141b7b434/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kyaw-Kyaw-Sann)
