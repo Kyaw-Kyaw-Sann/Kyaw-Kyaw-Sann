@@ -19,7 +19,7 @@ Currently, I'm focused on strengthening my software engineering skills, building
 | Frontend & Mobile | React, Next.js, React Native, Tailwind CSS |
 | Backend | Spring Boot, Node.js, Express.js, REST APIs |
 | Databases | PostgreSQL, MongoDB, pgvector |
-| Tools | Git, GitHub, Docker |
+
 
 ---
 
