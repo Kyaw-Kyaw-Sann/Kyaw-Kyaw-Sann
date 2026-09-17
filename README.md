@@ -81,5 +81,9 @@ I'm a final-year Computer University student passionate about building end-to-en
 
 ## 📫 Let's Connect
 
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=flat&logo=vercel&logoColor=white)](https://portfolio-orcin-five-34.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-kyaw-hsan-141b7b434/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kyaw-Kyaw-Sann)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kyawhsan042219@gmail.com)
