@@ -66,6 +66,17 @@ I'm a final-year Computer University student passionate about building end-to-en
 >
 > [Explore Readora](https://github.com/Kyaw-Kyaw-Sann?tab=repositories&q=readora)
 
+
+### 👥 DevLoop — Developer Community Platform
+
+> A collaborative developer community application featuring social interactions and an admin dashboard.
+>
+> **My Role:** Admin Dashboard Frontend Developer
+>
+> `Next.js` · `TypeScript` · `Tailwind CSS`
+>
+> [Team Repository](https://github.com/one-project-one-month/DevCom_Next)
+
 ---
 
 ## 📫 Let's Connect
