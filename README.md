@@ -67,7 +67,7 @@ I'm a final-year Computer University student passionate about building end-to-en
 
 > A digital library featuring personalized book recommendations, PDF reading, audiobook playback, and reading progress tracking.
 >
-> `React Native` · `Next.js` · `Spring Boot`
+> `React Native` · `Next.js` · `Spring Boot` · `PostgreSQL`
 >
 > [Explore Readora](https://github.com/Kyaw-Kyaw-Sann?tab=repositories&q=readora)
 
