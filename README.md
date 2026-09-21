@@ -52,14 +52,9 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaw-Kyaw-Sann&theme=default"
-    alt="Kyaw Kyaw Hsan's GitHub statistics"
-    height="170"
-  />
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyaw-Kyaw-Sann&theme=default"
     alt="Most used programming languages"
-    height="170"
+    height="180"
   />
 </p>
 
@@ -67,6 +62,7 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
   <img
     src="https://streak-stats.demolab.com?user=Kyaw-Kyaw-Sann&theme=default&hide_border=true"
     alt="GitHub contribution streak"
+    height="180"
   />
 </p>
 
