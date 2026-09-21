@@ -52,14 +52,6 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyaw-Kyaw-Sann&theme=default"
-    alt="Most used programming languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=Kyaw-Kyaw-Sann&theme=default&hide_border=true"
     alt="GitHub contribution streak"
     height="180"
