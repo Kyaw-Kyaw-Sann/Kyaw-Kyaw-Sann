@@ -54,6 +54,30 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kyaw-Kyaw-Sann&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+    alt="Kyaw Kyaw Hsan's GitHub statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Kyaw-Sann&layout=compact&hide_border=true&theme=default"
+    alt="Most used programming languages"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Kyaw-Kyaw-Sann&theme=default&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=flat&logo=vercel&logoColor=white)](https://kyawkyawhsan.vercel.app/)
