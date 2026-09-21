@@ -54,44 +54,6 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎟️ QuickSeat — Cinema Ticket-Booking Platform
-
-> A full-stack cinema booking application featuring temporary seat holds, secure bookings, QR-based tickets, and role-based management.
->
-> `Next.js` · `Spring Boot` · `PostgreSQL`
->
-> [Backend Repository](https://github.com/Kyaw-Kyaw-Sann/quickseat) · [Frontend Repository](https://github.com/Kyaw-Kyaw-Sann/quickseat-frontend)
-
-### 📝 Notiva — AI-Powered Knowledge Management
-
-> A note management application featuring rich-text editing, version history, semantic search, and AI-powered conversations using RAG.
->
-> `Next.js` · `Spring Boot` · `PostgreSQL` · `pgvector`
->
-> [Backend Repository](https://github.com/Kyaw-Kyaw-Sann/notiva-api) · [Frontend Repository](https://github.com/Kyaw-Kyaw-Sann/notiva-web)
-
-### 📚 Readora — Personalized Digital Library
-
-> A digital library platform featuring personalized book recommendations, PDF reading, audiobook playback, reading progress tracking, and an admin dashboard.
->
-> `React Native` · `Next.js` · `Spring Boot` · `PostgreSQL`
->
-> [Mobile App](https://github.com/Kyaw-Kyaw-Sann/readora) · [Web & Admin Dashboard](https://github.com/Kyaw-Kyaw-Sann/readora-web) · [Backend API](https://github.com/Kyaw-Kyaw-Sann/readora-backend)
-
-### 👥 DevCom (DevLoop) — Developer Community Platform
-
-> A collaborative team project featuring developer interactions, community management, and an admin dashboard.
->
-> **My Role:** Admin Dashboard Frontend Contributor
->
-> `Next.js` · `TypeScript` · `Tailwind CSS`
->
-> [Team Repository](https://github.com/one-project-one-month/DevCom_Next)
-
----
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=flat&logo=vercel&logoColor=white)](https://kyawkyawhsan.vercel.app/)
