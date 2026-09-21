@@ -46,24 +46,18 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kyaw-Kyaw-Sann&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaw-Kyaw-Sann&theme=default"
     alt="Kyaw Kyaw Hsan's GitHub statistics"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Kyaw-Sann&layout=compact&hide_border=true&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyaw-Kyaw-Sann&theme=default"
     alt="Most used programming languages"
     height="170"
   />
@@ -83,5 +77,3 @@ I'm currently seeking a **Software Development Internship** to apply my skills, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=flat&logo=vercel&logoColor=white)](https://kyawkyawhsan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-kyaw-hsan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kyawhsan042219@gmail.com)
-
-[Portfolio Source Code](https://github.com/Kyaw-Kyaw-Sann/portfolio)
