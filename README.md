@@ -59,6 +59,34 @@ My main interests are **full-stack web development, backend development, and mob
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kyaw-Kyaw-Sann&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Kyaw-Sann&layout=compact&theme=default&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+    height="165"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-streak-vercel.vercel.app?user=Kyaw-Kyaw-Sann&theme=default&hide_border=true"
+    alt="GitHub Streak"
+    height="180"
+  />
+
+</div>
+
+---
+
 <div align="center">
 
 *Always learning, building, and improving.*
